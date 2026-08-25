@@ -1,0 +1,18 @@
+# Justificativa dos Algoritmos de Ordenação
+
+**1. Quais dois algoritmos você escolheu?**
+
+Escolhi os algoritmos **Bubble Sort** e **Merge Sort**.
+
+**2. Qual deles utiliza a estratégia de Divisão e Conquista?**
+
+O **Merge Sort** utiliza a estratégia de Divisão e Conquista. Ele divide os dados em partes menores, ordena essas partes e depois as junta novamente de forma ordenada.
+
+**3. Por que você escolheu esses dois algoritmos para comparar?**
+
+Escolhi o Bubble Sort por ser um algoritmo simples e fácil de compreender e implementar. Já o Merge Sort foi escolhido por ser mais eficiente e utilizar uma estratégia diferente de ordenação. Dessa forma, foi possível comparar um algoritmo mais simples com outro mais adequado para uma quantidade maior de dados.
+
+**4. Qual dos dois você escolheria caso a competição tivesse milhares de jogadores? Por quê?**
+
+Eu escolheria o **Merge Sort**, pois ele apresenta um desempenho melhor quando existe uma grande quantidade de dados. Enquanto o Bubble Sort pode realizar muitas comparações e trocas, o Merge Sort divide o problema em partes menores, tornando a ordenação mais eficiente.
+
